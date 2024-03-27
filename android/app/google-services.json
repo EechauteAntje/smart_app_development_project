@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518413292744",
+    "project_id": "project-record-note",
+    "storage_bucket": "project-record-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518413292744:android:631bde9883fd66434101fd",
+        "android_client_info": {
+          "package_name": "com.example.notitie_app_04"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz1VpBLdLN_f39X-p5YSQxrt-e7E2yXE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518413292744:android:c3a87e92a2c7ef3f4101fd",
+        "android_client_info": {
+          "package_name": "com.example.record_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz1VpBLdLN_f39X-p5YSQxrt-e7E2yXE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
